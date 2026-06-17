@@ -1,21 +1,10 @@
 # Hi, I'm Milkias Markos Gebiso 👋
 
-## Aspiring SOC Analyst | Information Technology Teacher | Software Engineering Graduate
+## Software Engineering Graduate | Information Technology Teacher | Lab Technician | Aspiring SOC Analyst
 
-Welcome to my GitHub!
+I am passionate about defensive cybersecurity and continuously develop my skills through technical investigations, cybersecurity home lab projects, and structured learning.
 
-I am a Software Engineering graduate with professional experience in Information Technology education, computer laboratory administration, and technical support. I am currently building practical cybersecurity skills through hands-on labs, technical investigations, and continuous learning.
-
----
-
-## 🚀 About Me
-
-- BSc in Software Engineering (GPA: 3.78/4.00)
-- Information Technology Teacher
-- School Lab Technician
-- Based in Hawassa, Ethiopia
-- Cybersecurity Home Lab Enthusiast
-- Lifelong Learner
+My goal is to build a career in Security Operations (SOC), Incident Response, and Blue Team Operations.
 
 ---
 
@@ -27,8 +16,8 @@ I am a Software Engineering graduate with professional experience in Information
 - Threat Hunting
 - Windows Security
 - Linux Administration
-- Network Analysis
-- Security Awareness
+- Network Security
+- Digital Forensics Fundamentals
 
 ---
 
@@ -37,8 +26,7 @@ I am a Software Engineering graduate with professional experience in Information
 - Windows Administration
 - Linux Fundamentals
 - Networking & TCP/IP
-- Hardware Troubleshooting
-- Software Troubleshooting
+- Hardware & Software Troubleshooting
 - PHP & Web Development
 - VirtualBox
 - Wireshark
@@ -46,25 +34,27 @@ I am a Software Engineering graduate with professional experience in Information
 
 ---
 
-## Featured Work
+## Portfolio
+
+This GitHub profile documents my journey through:
 
 - Technical Case Reviews
-- Cybersecurity Home Lab
-- Incident Investigation Practice
+- Cybersecurity Home Lab Projects
 - Security Awareness Materials
-- Software Development Projects
+- Incident Investigation Exercises
+- Networking Labs
+- Windows & Linux Labs
 
 ---
 
 ## Currently Learning
 
-- SIEM Fundamentals
 - Log Analysis
-- Digital Forensics
+- SIEM Fundamentals
 - Detection Engineering
 - Malware Analysis
-- Security Monitoring
+- Threat Hunting
 
 ---
 
-> **"Every technical problem is an investigation. Every investigation is an opportunity to learn. Every lesson learned makes me a better defender."**## Hi there 👋
+> **"Every technical problem is an investigation. Every investigation is an opportunity to learn."**
