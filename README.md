@@ -1,6 +1,6 @@
 # Hi, I'm Milkias Markos Gebiso 👋
 
-## Software Engineering Graduate GPA 3.78 | Aspiring SOC Analyst |IT Educator | Lab Technician | Home Lab Enthusiast | Continuous Learner
+## Software Engineering Graduate GPA 3.78 | Aspiring SOC Analyst | IT Educator | Lab Technician | Home Lab Enthusiast | Continuous Learner
 
 I am passionate about defensive cybersecurity and continuously develop my skills through technical investigations, cybersecurity home lab projects, and structured learning.
 
