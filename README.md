@@ -1,6 +1,6 @@
 # Hi, I'm Milkias Markos Gebiso 👋
 
-## Software Engineering Graduate | Information Technology Teacher | Lab Technician | Aspiring SOC Analyst
+## Software Engineering Graduate GPA 3.78 | Information Technology Teacher | Lab Technician | Aspiring SOC Analyst
 
 I am passionate about defensive cybersecurity and continuously develop my skills through technical investigations, cybersecurity home lab projects, and structured learning.
 
@@ -49,11 +49,11 @@ This GitHub profile documents my journey through:
 
 ## Currently Learning
 
-- Log Analysis
-- SIEM Fundamentals
-- Detection Engineering
-- Malware Analysis
-- Threat Hunting
+- Computer Networking Fundamentals
+- TCP/IP & Network Protocols
+- Wireshark Packet Analysis
+- Linux Fundamentals
+- Cybersecurity Foundations
 
 ---
 
